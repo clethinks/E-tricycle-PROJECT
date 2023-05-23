@@ -1,5 +1,5 @@
 # E-tricycle-PROJECT
-by: Kipkirui Clement (ELECTRICAL ENG)
+by: Kipkirui Clement (ELECTRICAL ENG) x
     Amos Wainaina (MECHANICAL ENG)
     JKUAT
     
